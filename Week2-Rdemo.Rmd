@@ -124,4 +124,9 @@ starwars <- starwars %>%  mutate(
 
 Based off the above output/model, what is the predicted probability of a male who is 170cm tall being over 100lbs?
 
+a. 0.057
+b. 0.061
+c. -2.801
+
+
 
